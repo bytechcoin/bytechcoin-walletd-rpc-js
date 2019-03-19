@@ -1,0 +1,3 @@
+[submodule "lib/node-XMLHttpRequest"]
+	path = lib/node-XMLHttpRequest
+	url = git@github.com:BebopTC/node-XMLHttpRequest.git
